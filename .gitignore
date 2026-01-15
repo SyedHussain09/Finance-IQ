@@ -1,0 +1,63 @@
+# Environment
+.env
+*.env
+!.env.example
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+chroma_db/
+
+# Node
+node_modules/
+.next/
+dist/
+build/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/
+temp/
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+
+# Test files
+test_*.py
+verify_*.py
+*_test.py
+
+# Backups and legacy
+legacy/
+backup/
+old/
+*.bak
+*.old
+
+# Temporary docs
+IMPLEMENTATION_SUMMARY.md
+QUICK_START*.md
