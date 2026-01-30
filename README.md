@@ -1,4 +1,4 @@
-# 💎 FinanceIQ - AI-Powered Financial Analytics
+#  FinanceIQ - AI-Powered Financial Analytics
 
 > **Enterprise-grade financial intelligence with advanced AI**  
 > *Production-ready SaaS platform for intelligent money management*  
@@ -147,7 +147,7 @@ For commercial use, please contact the developer.
 ---
 
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Anthropic** for Claude AI technology
 - **Streamlit** for amazing web framework
